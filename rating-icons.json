@@ -1,0 +1,9 @@
+[
+  {"name": "imdb", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/IMDb_Logo_Square.svg"},
+  {"name": "tomatometer", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rotten_Tomatoes.svg"},
+  {"name": "popcornmeter", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rotten_Tomatoes_positive_audience.svg"},
+  {"name": "metacritic", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Metacritic_logo_Roundel.svg"},
+  {"name": "letterboxd", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Letterboxd_2023_logo.png"},
+  {"name": "trakt", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Trakt.tv-favicon.svg"},
+  {"name": "tmdb", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tmdb.new.logo.svg"}
+]
